@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Nazmi bin Mohd Saifulizam
 Computer Networks & Security Student
 ------------------------------------
 
-I am passionate Computer Networks & Security Student at Universiti Teknologi Malaysia
+I am passionate Computer Networks & Security Student from Universiti Teknologi Malaysia
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [nazmi-04@graduate.utm.my](mailto:nazmi-04@graduate.utm.my)
