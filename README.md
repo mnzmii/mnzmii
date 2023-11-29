@@ -7,6 +7,7 @@ Computer Networks & Security Student
 I am passionate Computer Networks & Security Student from Universiti Teknologi Malaysia
 
 * 🌍  I'm based in Malaysia
+* 🖥️  See my portfolio at [MyPortfolio](http://mnzmii.github.io)
 * ✉️  You can contact me at [nazmi-04@graduate.utm.my](mailto:nazmi-04@graduate.utm.my)
 
 ### Skills
