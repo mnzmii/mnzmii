@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://mnzmii.github.io/images/profile.jpg" align="center" style="width: 50%" />
+<img src="https://mnzmii.github.io/images/profile.jpg" align="center" style="width: 20%" />
 </div>  
   
 
