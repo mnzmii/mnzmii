@@ -3,19 +3,20 @@
 </div>  
   
 
-### <div align="center">I am Nazmi, a full-time Network & Computer Security student at Universiti Teknologi Malaysia Johor Bahru👨‍💻  </div>  
+### <div align="center">Hello There, I'm Nazmi !👋 </div>  
   
+- 🎓 I'm a full-time student at Universiti Teknologi Malaysia Johor Bahru, majoring in Computer Science with a focus on Computer Network & Security.
 
 - 🔭 Take a look of my [E-Portfolio](http://mnzmii.github.io)  
   
 
-- 🌱 I’m currently learning on Web Development   
+- 🔍 Currently exploring the fascinating realms of networking protocols, cybersecurity, and web development.  
   
 
-- ❓ You can contact me at [nazmi-04@graduate.utm.my](mailto:nazmi-04@graduate.utm.my) for any inquiries  
+- 📫 You can reach me via [nazmi-04@graduate.utm.my](mailto:nazmi-04@graduate.utm.my) for any inquiries  
   
 
-- ⚡ Achievement: I used to get Straight A with CGPA 4.0 when I was in Foundation level especially in Computer Science subject   
+- 🏆 **Achievement Unlocked:** I am pleased to share that I achieved straight A's with a GPA of 4.0 in my foundation studies. This achievement reflects my dedication to academic excellence and my desire to learn the fundamentals of computer science.   
   
 
 <br/>  
