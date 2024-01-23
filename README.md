@@ -20,7 +20,7 @@
 
 - 🏆 **Achievement Unlocked:** I am pleased to share that I achieved straight A's with a GPA of 4.0 in my foundation studies. This achievement reflects my dedication to academic excellence and my desire to learn the fundamentals of computer science.   
   
-Happy exploring! 🚀
+  Happy exploring! 🚀
 <br/>  
 
 
